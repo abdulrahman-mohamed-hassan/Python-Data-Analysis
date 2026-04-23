@@ -1,0 +1,9 @@
+Personal Data:
+- Name: Nader Ramzy
+- DOB: 25-12-1999
+- Email:naderramzy@gmail.com
+
+Education:
+- Enrolled at AAST at the BIS Department
+- GPA: 3.25
+- Expected graduation date: June 2021
