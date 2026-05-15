@@ -27,9 +27,3 @@ Data visualization and analysis using NumPy and Matplotlib.
 - Python 3.x
 - NumPy
 - Matplotlib
-
-## Author
-Abdulrahman Noaman
-
-## Date
-Spring 2025
